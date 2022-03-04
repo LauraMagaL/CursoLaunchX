@@ -1,2 +1,2 @@
-# FrontEndLaunchX-Week2
-curso de web Dev, intro a HTML
+# FrontEndLaunchX-Week1
+curso de web Dev, Intro
